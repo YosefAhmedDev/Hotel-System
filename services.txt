@@ -1,0 +1,2 @@
+Breakfast,Buffet Breakfast,50.0
+Spa,Full acess to Spa,70.0

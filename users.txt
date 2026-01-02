@@ -1,0 +1,3 @@
+admin,admin,MANAGER
+staff,1234,EMPLOYEE
+admin2,admin,MANAGER
